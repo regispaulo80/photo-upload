@@ -1,4 +1,4 @@
-This project was bootstrapped with Reggie.
+This project was bootstrapped with Reggie :).
 
 ## Available Scripts
 
